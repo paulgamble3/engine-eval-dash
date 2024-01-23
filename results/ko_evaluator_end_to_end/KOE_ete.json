@@ -1,0 +1,32 @@
+[
+    {
+        "date": "1/9",
+        "run_name": "KOE End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 0.607,
+            "Accuracy - 2 KO": 0.388,
+            "Accuracy - 3 KO": 0.273
+        }
+    },
+    {
+        "date": "1/10",
+        "run_name": "KOE End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 0.452,
+            "Accuracy - 2 KO": 0.457,
+            "Accuracy - 3 KO": 0.307
+        }
+    },
+    {
+        "date": "1/18",
+        "run_name": "KOE End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 0.290,
+            "Accuracy - 2 KO": 0.412,
+            "Accuracy - 3 KO": 0.400
+        }
+    }
+]

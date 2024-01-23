@@ -1,0 +1,32 @@
+[
+    {
+        "date": "1/9",
+        "run_name": "KOD End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 0.928,
+            "Accuracy - 2 KO": 0.823,
+            "Accuracy - 3 KO": 0.691
+        }
+    },
+    {
+        "date": "1/10",
+        "run_name": "KOD End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 0.903,
+            "Accuracy - 2 KO": 0.743,
+            "Accuracy - 3 KO": 0.692
+        }
+    },
+    {
+        "date": "1/18",
+        "run_name": "KOD End-to-End",
+        "benchmark_version": "N/A",
+        "results": {
+            "Accuracy - 1 KO": 1.00,
+            "Accuracy - 2 KO": 0.794,
+            "Accuracy - 3 KO": 0.750
+        }
+    }
+]
