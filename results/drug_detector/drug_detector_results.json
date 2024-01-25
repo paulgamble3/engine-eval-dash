@@ -1,0 +1,13 @@
+[
+    {
+        "date": "1/24",
+        "run_name": "drug detector baseline",
+        "benchmark_version": "v1",
+        "results": {
+            "med_discussed_accuracy": 0.983,
+            "med_identified_accuracy": 0.967,
+            "FPR": 0.017,
+            "FNR": 0.033
+        }
+    }
+]

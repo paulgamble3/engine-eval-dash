@@ -1,0 +1,27 @@
+[
+    {
+        "date": "1/24",
+        "run_name": "retrieval baseline",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.656,
+            "FPR": 0.013,
+            "FNR": 0.648,
+            "TPR": 0.352,
+            "TNR": 0.987
+
+        }
+    },
+    {
+        "date": "1/24",
+        "run_name": "1/24 new model",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.516,
+            "FPR": 0.0,
+            "FNR": 0.919,
+            "TPR": 0.081,
+            "TNR": 1.0
+        }
+    }
+]

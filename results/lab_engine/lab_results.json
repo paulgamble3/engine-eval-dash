@@ -1,35 +1,59 @@
 [
     {
-        "date": "1/11",
+        "date": "1/12",
         "run_name": "LabDetector v1 + original prompt",
         "benchmark_version": "v1",
         "results": {
             "value_acc": 0.9080779944289693,
             "label_acc": 0.9275766016713092,
             "overall_acc": 0.871866295264624,
+            "FPR": 0.024,
+            "FNR": 0.108,
+            "bp_accuracy": 0.597,
             "num_examples": 359
         }
     },
     {
-        "date": "1/12",
+        "date": "1/16",
         "run_name": "LabDetector v2 + original prompt",
         "benchmark_version": "v1",
         "results": {
             "value_acc": 0.9721448467966574,
             "label_acc": 0.9220055710306406,
             "overall_acc": 0.9192200557103064,
+            "FPR": 0.018,
+            "FNR": 0.044,
+            "bp_accuracy": 0.963,
             "num_examples": 359
         }
     },
     {
-        "date": "1/12",
+        "date": "1/16",
         "run_name": "LabDetector v2 + bp shot prompt",
         "benchmark_version": "v1",
         "results": {
             "value_acc": 0.9805013927576601,
             "label_acc": 0.9331476323119777,
             "overall_acc": 0.9303621169916435,
+            "FPR": 0.023,
+            "FNR": 0.03,
+            "bp_accuracy": 0.963,
             "num_examples": 359
         }
+    },
+    {
+        "date": "1/24",
+        "run_name": "2024-01-24_22-28",
+        "benchmark_version": "v1",
+        "results": {
+            "value_acc": 0.9832869080779945,
+            "label_acc": 0.9220055710306406,
+            "overall_acc": 0.9220055710306406,
+            "num_examples": 359,
+            "bp_accuracy": 0.965,
+            "FPR": 0.014,
+            "FNR": 0.095
+        }
     }
+    
 ]

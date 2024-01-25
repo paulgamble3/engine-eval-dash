@@ -5,6 +5,8 @@
         "benchmark_version": "v1",
         "results": {
             "accuracy": 0.831,
+            "FPR": 0.171,
+            "FNR": 0.146,
             "TPR": 0.854,
             "TNR": 0.829
         }
@@ -15,6 +17,8 @@
         "benchmark_version": "v1",
         "results": {
             "accuracy": 0.836,
+            "FPR": 0.184,
+            "FNR": 0.102,
             "TPR": 0.898,
             "TNR": 0.816
         }
