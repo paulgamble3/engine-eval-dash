@@ -1,0 +1,15 @@
+[
+    {
+        "date": "1/25",
+        "run_name": "drug asr baseline",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.815,
+            "FPR": 0.107,
+            "FNR": 0.239,
+            "TPR": 0.892,
+            "TNR": 0.987
+
+        }
+    }
+]

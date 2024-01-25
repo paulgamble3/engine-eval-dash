@@ -47,9 +47,23 @@ st.subheader("Drug Detector")
 st.write("n = 300")
 load_display(drug_detector_results, drug_detector_results_dict)
 
+st.divider()
 
+drug_asr_results = './results/drug_asr/drug_asr_results.json'
+drug_asr_results_dict = {
+    "accuracy": "Overall Accuracy",
+    "FPR": "FPR",
+    "FNR": "FNR",
+    "TPR": "TPR",
+    "TNR": "TNR"
+}
+st.subheader("Drug ASR")
+st.write("n = 202")
+load_display(drug_asr_results, drug_asr_results_dict)
 
 st.divider()
+
+
 retrieval_detector_results = './results/retrieval_detector/retrieval_detector_results.json'
 retrieval_detector_results_dict = {
     "accuracy": "Overall Accuracy",
