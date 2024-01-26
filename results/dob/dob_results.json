@@ -1,0 +1,14 @@
+[
+    {
+        "date": "1/25",
+        "run_name": "dob baseline",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.808,
+            "FPR": 0.167,
+            "FNR": 0.18,
+            "TPR": 0.82,
+            "TNR": 0.833
+        }
+    }
+]

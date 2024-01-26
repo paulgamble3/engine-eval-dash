@@ -62,6 +62,19 @@ st.write("n = 202")
 load_display(drug_asr_results, drug_asr_results_dict)
 
 st.divider()
+dob_results = './results/dob/dob_results.json'
+dob_results_dict = {
+    "accuracy": "Overall Accuracy",
+    "FPR": "FPR",
+    "FNR": "FNR",
+    "TPR": "TPR",
+    "TNR": "TNR"
+}
+st.subheader("DOB")
+st.write("n = 48")
+load_display(dob_results, dob_results_dict)
+
+st.divider()
 
 
 retrieval_detector_results = './results/retrieval_detector/retrieval_detector_results.json'
