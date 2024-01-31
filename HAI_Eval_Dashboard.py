@@ -49,6 +49,16 @@ load_display(drug_detector_results, drug_detector_results_dict)
 
 st.divider()
 
+nutrition_detector_results = './results/nutrition/nutrition_results.json'
+nutrition_detector_results_dict = {
+    "accuracy": "Overall Accuracy"
+}
+st.subheader("Nutrition Detector")
+st.write("n = 192")
+load_display(nutrition_detector_results, nutrition_detector_results_dict)
+
+st.divider()
+
 drug_asr_results = './results/drug_asr/drug_asr_results.json'
 drug_asr_results_dict = {
     "accuracy": "Overall Accuracy",

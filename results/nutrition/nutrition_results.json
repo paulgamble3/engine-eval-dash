@@ -1,0 +1,20 @@
+[
+    {
+        "date": "1/30",
+        "run_name": "GPT4",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.945
+
+        }
+    },
+    {
+        "date": "1/30",
+        "run_name": "nutrition detector v1",
+        "benchmark_version": "v1",
+        "results": {
+            "accuracy": 0.761
+
+        }
+    }
+]

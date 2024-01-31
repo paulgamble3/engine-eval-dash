@@ -54,6 +54,21 @@
             "FPR": 0.014,
             "FNR": 0.095
         }
+    },
+    {
+        "date": "1/29",
+        "run_name": "2024-01-29_12-23-38",
+        "benchmark_version": "v2",
+        "results": {
+            "value_acc": 0.98,
+            "label_acc": 0.95,
+            "overall_acc": 0.96,
+            "num_examples": 350,
+            "bp_accuracy": 0.988,
+            "FPR": 0.008,
+            "FNR": 0.031
+        }
     }
+    
     
 ]
